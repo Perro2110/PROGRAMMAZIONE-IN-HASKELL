@@ -1,2 +1,2 @@
 # playingHaskell
-Testing e sort vari
+Test e sort vari.. for fun !!
